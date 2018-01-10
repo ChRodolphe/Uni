@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="EBE5167F6C684B189201BFF8E8F10C4F"/>
+<title text="Histoire ancienne"/>
+<style key="system.bright-palette">
+<mindmap>
+<backgroundcolor r="0" g="0" b="0"/>
+</mindmap>
+<texts align="left"/>
+</style>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="100" x="398" y="364"/>
+<selection guid="_A2cRtzWuUCBk_Q32a541w" type="node" id="0"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="_A2cRtzWuUCBk_Q32a541w" x="800.00" y="800.00" layout="strict-horizontal" palette="1" colorinfo="1" text="Histoire ancienne"/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>
