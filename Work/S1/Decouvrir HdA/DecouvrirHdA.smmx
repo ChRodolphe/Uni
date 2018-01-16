@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="3694E53049FC46EAA0737F25EEC29F12"/>
+<title text="DecouvrirHdA"/>
+<style key="system.bright-palette">
+<mindmap>
+<backgroundcolor r="0" g="0" b="0"/>
+</mindmap>
+<texts align="left"/>
+</style>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="65" x="276" y="71"/>
+<selection guid="4-HdAgN65k-KG4kZodLUsg" type="node" id="92"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="UHOQBr0WkUG2yH9_9Xmufw" x="750.18" y="210.54" palette="1" colorinfo="1" text="DecouvrirHdA"/>
+<topic id="1" parent="0" guid="YzdePMrfCUKHY7xsqjZtgg" x="995.19" y="558.11" palette="2" colorinfo="2" text="Sculpture"/>
+<topic id="2" parent="1" guid="gJ4VdmgBZUCOpIv7S9B6TQ" x="1166.80" y="212.26" layout="strict-horizontal" layout-direction="right" text="Types"/>
+<topic id="3" parent="2" guid="f2wgfHFu70KCs3F6fD88Yw" x="1589.15" y="127.70" text="ronde-bosse :\N Ouvrage exécuté en plein relief se détachant devant un fond (p. oppos. à demi-bosse ou à bas-relief). ">
+<style align="left"/>
+</topic>
+<topic id="4" parent="2" guid="onjp1IGos0q8fqj50RhzAA" x="1679.65" y="212.26" text="relief :\N Saillie d&apos;un ouvrage se détachant sur un fond uni. Plein relief; relief entier; façade ornée de reliefs. \N♦ Demi relief. ,,Celui où les objets représentés ressortent à moitié du fond sur lequel ils semblent posés`` (Jossier 1881). \N♦ Bas-relief(Ouvrage de sculpture où les objets représentés ont peu de saillie et sont en partie engagés dans le bloc )\N ♦ Haut-relief(Sculpture, souvent monumentale, dont les motifs et les figures en relief se détachent presque complètement du fond).">
+<style align="left"/>
+</topic>
+<topic id="5" parent="2" guid="EMT2gEEm1ECmsafQE1JlBg" x="1384.65" y="296.82" text="groupe sculpté :\N Plusieurs rondes-bosses mis en scène">
+<style align="left"/>
+</topic>
+<topic id="6" parent="1" guid="dEiAz1H7W0aL-9h1655ASg" x="1627.37" y="487.41" layout="strict-horizontal" layout-direction="right" text="Matériaux"/>
+<topic id="7" parent="6" guid="Ea4j9aSyCEahRI_e3bTFzg" x="1915.22" y="426.85" text="Matérieaux plastique :\N terre, cîre, plâtre (travaillés par modelage ou moulage)">
+<style align="left"/>
+</topic>
+<topic id="8" parent="6" guid="gpOeG4xjOUqcWdC8zAnOlA" x="1912.22" y="487.41" text="Matériaux durs :\N pierres, bois  technique de la taille(équaris, épannelé)">
+<style align="left"/>
+</topic>
+<topic id="9" parent="6" guid="jscqyMVHTEat6LUlukxUbQ" x="1861.22" y="547.97" text="Métaux :\N bronze, or, argent, ... fonte, martelage">
+<style align="left"/>
+</topic>
+<topic id="10" parent="1" guid="jjYBFFOPZ0Km_-_d5TvAag" x="1280.09" y="702.55" text="Techniques"/>
+<topic id="11" parent="10" guid="-T35ttqbP0WOHjYeYznNhQ" x="1529.16" y="601.55" text="Taille directe"/>
+<topic id="12" parent="10" guid="n_avxjStUEWweh2SwnKbvQ" x="1532.59" y="652.26" text="Mise-aux-points"/>
+<topic id="13" parent="10" guid="SZavz-pDqUqvMJgvk50w0Q" x="1556.34" y="808.49" layout="list" text="Outils :"/>
+<topic id="14" parent="13" guid="AjiM4tnuBUuL3ssc8Wd2LQ" x="1594.34" y="853.05" text="La pointe"/>
+<topic id="15" parent="13" guid="-5dw0Q-GlUuYpW5LyuSA2Q" x="1594.84" y="897.61" text="Le ciseau"/>
+<topic id="16" parent="13" guid="rZEyPV9b8Umiys60PyGYXw" x="1647.34" y="942.17" text="La gradine(ciseau édenté)"/>
+<topic id="17" parent="13" guid="9NT5zVqn0UmZ0wRncQH7Qw" x="1594.84" y="986.73" text="Le trépon"/>
+<topic id="18" parent="10" guid="-hi-Hpt3k0GugsrqpDyZJQ" x="1285.20" y="928.09" layout="list" text="Finitions :"/>
+<topic id="19" parent="18" guid="lLLkreykxU--ZnQAJoYZNQ" x="1379.70" y="972.65" text="Polissage et effets de surfaces"/>
+<topic id="20" parent="1" guid="aElZxtDLCEaNLWWpQ9E_dg" x="2090.66" y="1006.41" text="I- Dans l&apos;atelier du sculpteur">
+<parent-relation guid="JtS-JEwJFECLUeYlZGl2_Q">
+<path>
+<custom-point x="-277.21" y="286.31"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="21" parent="20" guid="S-YPG17jJ0ujBEMuTEngvw" x="2287.50" y="912.51" text="métal"/>
+<topic id="22" parent="21" guid="7jkUWzmEzUy7pAHBAvJTCA" x="2458.05" y="136.05" text="Technique de travail du métal"/>
+<topic id="23" parent="22" guid="pQMYadGqSEaRGLluQv5GmQ" x="2787.76" y="-21.94" text="• Repoussé"/>
+<topic id="24" parent="23" guid="Nq_CcSqQ0kSWG6HFhNecQA" x="3068.43" y="-251.70" text="objets en relief\N frappe/travail (marteaux/cisellés) fine couche de métal / se rapproche de l&apos;orfevrerie\N (The making of a roman silver cup _youtube : repoussé+fonte à la cire perdue)">
+<style align="left"/>
+</topic>
+<topic id="25" parent="24" guid="o1SSV6XQYkyqxrtlw96g6g" x="3381.07" y="-95.63" text="Autel réalisé par Volvinius \NMilan, Saint-Ambroise,\Nsur commande de l&apos;évêque Angilbert \N(824-860)\Nautel pour eucharistie + reliquaire\N\N\Nau vu du clérgé seulement : vie Saint-Ambroise / face postérieur = cycle ambroisien :\Ndétail au centre = Saint Ambroise couronnant  &quot;Volvinus phabar(artisant)&quot;"/>
+<topic id="26" parent="22" guid="O8vaO6Ki2kKf8xU1BrbgPg" x="2786.26" y="122.62" text="• Fonte"/>
+<topic id="27" parent="26" guid="5hz3sLSEOkeDyO9LQoUWRQ" x="3191.08" y="104.98" text="La fonte à la cire perdue\N nécessite le modèle original dans taille voulue\N modèle en cire entouré de canaux pour évacuation lors de fchauffe\N au centre = noyau qui sera retiré pour ne pas utiliser trop métal/que ce soit plus léger\N coulage du métal puis cassage moule et on enlève les &quot;branches de métal&quot; qui corresponent  aux canaux">
+<style align="left"/>
+</topic>
+<topic id="28" parent="27" x="3697.87" y="82.89" text="Andrea Pisano, Porte sud du baptistère\Nde Florence, autour de 1330"/>
+<topic id="29" parent="26" guid="Mn7TK9tL60O41P8DyNVY9Q" x="2870.72" y="206.24" text="Après la fonte : "/>
+<topic id="30" parent="29" guid="thtN6qEhMkOHGb-wPYYYaQ" x="3024.17" y="258.86" text="polissage"/>
+<topic id="31" parent="30" guid="LiF0Y2AmBkajHgJExlgbVg" x="3296.81" y="300.56" text="Constantin Brancusi, Maiastra,\N1912, cuivre poli, Venise,\Nfondation Guggenheim">
+<parent-relation guid="iXmE2PFq1USGZQmYQvFqPQ">
+<path>
+<custom-point x="-28.20" y="12.72"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="32" parent="31" guid="LD_Lt1solEuGEUBlAmbBGw" x="3737.22" y="299.83" text="Constantin Brancusi, Oiseau dans l&apos;espace, 1932-40, cuivre poli, Venise, fondation Guggenheim\N"/>
+<topic id="33" parent="30" guid="qEPv-Afpfk65ZStedHB51g" x="3494.40" y="216.00" text="Brancusi : importance socle qui font partie de la sculpure qu&apos;il fait lui même\N\NRodin ne polis pas / garde traces mains dans la terre du moule / processus conservé\N Le penseur / Balzac">
+<parent-relation guid="nVW_zSfhBk6UORqrjEkDuA">
+<path>
+<custom-point x="-140.00" y="-1.00"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="34" parent="29" guid="mKAu_Jzx206oUpKUkiAe_A" x="3000.74" y="376.52" text="détails par ciselure">
+<parent-relation guid="QfSiTRdQXk6Kp1aD_nnEEQ">
+<path>
+<custom-point x="13.06" y="24.55"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="35" parent="34" guid="31nMOvooQ0S3qLhX3ZU1ZA" x="3382.07" y="440.06" text="&quot;Prince héllenistique&quot;, bronze, Rome, Palazzo Massmo, Iie s av. J.-C.\N Barbe de trois jours\N nudité héroïque \N visage individualisé / portrait réaliste + corp idéalisé"/>
+<topic id="36" parent="35" guid="ZYuK0kKoPEaCe4q9Ic-IrA" x="4062.97" y="435.20" text="Hercule Farnèse, Naples, Musée archéologique, copie en marbre du Iie s ap J.-C. d&apos;un original en bronze de Lysippe (Ive s av. J.-C)\N avec peau lion némée "/>
+<topic id="37" parent="29" guid="WE5oNbtncU61TnZcGtYgMQ" x="4090.85" y="215.21" text="Réalisation d&apos;ne sculpture de grandes dimensions en une seule coulée : \N\NPersée de Benvenuto Cellini 1545-1554, Florence, Piazza de la Signora"/>
+<topic id="38" parent="22" guid="h_705tpsfUibglOsDwZYUA" x="2682.26" y="425.18" text="• Assemblage de plaques par\Nsoudoure (XXe siècle)"/>
+<topic id="39" parent="22" guid="C-4rLCJgPEeEY7Z4HDxrwQ" x="2969.43" y="549.10" text="Les bronzes antiques : "/>
+<topic id="40" parent="39" guid="9I4B1FdB4Em0RTX3jgPq_Q" x="3233.20" y="561.71" text="ajout des yeux"/>
+<topic id="41" parent="40" guid="MhJC11mA2kaYft5-YzrzIg" x="3627.77" y="563.81" text="L&apos;Aurige de Delphes, bronze, autour de 470 av. J.-C., 1,80m, Delphes, Musée archéologique\N aurige = conducteur de char dans la guerre ou les courses du cirque \N cils en bronze"/>
+<topic id="42" parent="39" guid="tJleHuYjp0Kr6za-u95sxg" x="3236.77" y="657.04" text="ajouts d&apos;autres métaux\N(cuivre, argent...)"/>
+<topic id="43" parent="42" guid="fDmD6IWeCkW2tyahWx6EyA" x="3577.11" y="692.88" text="Bronzes de Riace, première moitié du Ve siècle av. J.-C. (style sévère)\Nretrouvé dans Méditerranée au large de la Calabre en 1972\Nchaque membres fondus séparement\N position de tenue de lances et boucliers / haut tête pour porter casque\N dents en lames d&apos;argent\N lèvres en cuivre\N pierres noires et blanches pour les yeux">
+<style align="left"/>
+</topic>
+<topic id="44" parent="43" guid="3Mjz2sm1YECcKZrEut6N4A" x="3959.19" y="690.66" text="Hercule du Musée\Nd&apos;Aquitaine, Bordeaux"/>
+<topic id="45" parent="44" guid="MHUxC8KlikuOD_uqWicBKA" x="4454.58" y="687.79" text="écarts entre modèle et fonte :\NAuguste Rodin, Monument à Balzac, Plâtre réalisé en 1898, fondu en 1935 \N(après mort Rodin )\NParis, Musée Rodin, 2,70m\NRodin ne cherche pas représentation fidèle et supprime symbole/allégorie sur métier écrivain\Nrobe de chambre : simplification des formes \N= commanditaires veulent renoncés au &quot;foetus&quot; / scandale : aide pour connaissance oeuvre car on en a beaucoup parlé*\Ncontrat rompu\NRodin installe statue dans sa villa\N\N\N*Edward Steichen, Balzac au clair de lune, 1908"/>
+<topic id="46" parent="22" guid="QQylMRAqzkyu_GOg0Sowfw" x="3035.32" y="875.88" text="Le bronze : le relief">
+<parent-relation guid="QZRyPt2hlESlhXNl7cITRA">
+<path>
+<custom-point x="-129.93" y="98.40"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="47" parent="46" guid="i_MLvm9TSEqvNJSCN5Vy5A" x="3361.07" y="876.31" text="Porte en bronze de Saint-Michel de Hidesheim, vers 1020\N(art ottoniens) scènes anciens et nouveau testament\N(chute puis rachat/élévation de l&apos;Homme)">
+<style align="left"/>
+</topic>
+<topic id="48" parent="47" guid="brH_wxvoVEG_bjXIC5yhTg" x="3676.49" y="876.72" text="Bonanno Pisano, Porte de San\NRanieri, 1181, Pise, Museo\Ndell&apos;Opera del Duomo"/>
+<topic id="49" parent="48" guid="15eVB0yQHUi-CrUx3cH_tA" x="3888.42" y="877.00" text="Vérone, Porte de San\NZeno, vers 1100"/>
+<topic id="50" parent="49" guid="H7TjCgW2rkOql5NjqTta9w" x="4201.34" y="877.41" text="début renaissance\N concours pour la porte du nord du baptistère de Florence, 1401\NLorenzo Ghiberti (winner)  Flilippo Brunelleschi\Nrelief en une seule pièce   plusieurs pièces"/>
+<topic id="51" parent="50" guid="poIea93y9kaJCcqpim5-FQ" x="4607.26" y="877.94" text="Lorenzo Ghiberti, la &quot;porte du Paradis&quot; (1425-1452)\N bronze doré"/>
+<topic id="52" parent="22" guid="WiNl6g6zLkaLZtHLCEwuzQ" x="2725.32" y="892.54" text="Nouvelles techniques de\Ntravail du métal au XXe s"/>
+<topic id="53" parent="52" guid="lsaAe6e_jkC6p0jA_mzCuA" x="2744.00" y="958.58" text="Mobiles et movements moteur /\Nsculpture autodestructive"/>
+<topic id="54" parent="53" guid="cNrHPKspv02PFm7pmNaNqg" x="3164.69" y="1037.59" text="Jean Tinguely (1925-1991)\N Méta-Harmoni II, 1979 Bâme, Musée Tinguely\N absurde dada\N\N Study for an end of the world n°2, 1962, désert du Nevada\N \N Fontaine Stavinsky, Paris, 1983, Jean Tinguely et Niki de Saint-Palle"/>
+<topic id="55" parent="20" guid="T0oVflHzQkenypjHicW3eA" x="2402.83" y="1098.25" text="bois"/>
+<topic id="56" parent="55" guid="kgwvdQK9LEWN45fGNltVCA" x="3300.95" y="1352.52" text="avantage bois = \N+ accessibilité / angles plus nette que la terre\N- ne peut être utiliser dehors / ne resiste pas à pluie\N\Nbois très utilisé pour reprsentation Christ dans l&apos;art chrétien médiéval, \Nle plus souvent polychrome">
+<style align="left"/>
+</topic>
+<topic id="57" parent="56" guid="b8YwDOX_oEetD82fPElXuA" x="3705.38" y="1294.53" text="Crucifix en bois, XIIe s, produit\Nen Bourgogne, Pise, Musée\Ndell&apos;Opera del duomo"/>
+<topic id="58" parent="57" guid="rf0HUKXp3UeD7o1SXtqCrA" x="4087.00" y="1281.40" text="Crucifix, bois, XIIe s, Auvergne,\NParis, Musée de Cluny"/>
+<topic id="59" parent="56" guid="SelDAxr0jUS8t4gh9SwfYw" x="4032.30" y="1406.47" text="Donatello, Marie-Madeleine, Bois de peuplier, entre 1430 et 1450, 1,88m, Florence, Musée dell&apos;Opera del Duomo\N (disciple de Jésus qui est la première à voir le Christ après Résurection)"/>
+<topic id="60" parent="59" guid="Sod0hRlPa0uUr4fOuQzP7Q" x="4023.33" y="1535.76" text="Retable de XIIIe s, Florence,\NGalleria dell&apos;Academia"/>
+<topic id="61" parent="56" guid="K0FLZtGcEUuEPZI6FQGnkg" x="3943.44" y="1643.33" text="Le mobilier : exemple de stalles"/>
+<topic id="62" parent="61" guid="FQxfPlRoo0SNBt862KDxGQ" x="3981.03" y="1706.88" text="stalles : sièges de bois qui, dans les églises,\Nsont autour du chur et sur lesquels sont assis les\Nchanoines, les religieux"/>
+<topic id="63" parent="62" guid="Fth8qUhil0ChesooMXEX-Q" x="4365.74" y="1699.06" text="Stalle de Saint-Pierre à Pérouse (Ombriel), XVIe s."/>
+<topic id="64" parent="55" guid="sZ6onMauoEiBTsd9PjYy5w" x="3529.80" y="1543.30" text="Le bois et les artistes de la modernité">
+<parent-relation guid="QCTtaMBrFkOUXAbtc8LHaA">
+<path>
+<custom-point x="161.68" y="163.22"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="65" parent="64" guid="29XnpTnFv0qGgOGSc39YSg" x="3502.37" y="1599.44" text="Paul Gauguin :"/>
+<topic id="66" parent="65" guid="YIMxn6lqXEK1vPqA_83tTA" x="3525.03" y="1721.41" text="Soyez mystérieuses, Bois de tilleul polychrome, 1890, Paris, Musée d&apos;Orsay\N relief en éplat (dépasse peu du fond)"/>
+<topic id="67" parent="65" guid="PkkJ8wEpmUGLvlsidZ8kMw" x="3422.24" y="1649.56" text="Soyez amoureuses et vous serez heureuse, Bois de tilleul polychrome, 1890, Boston, Musée  des Beaux-Arts"/>
+<topic id="68" parent="20" guid="vNz5O2IpnEayHpinAfoTkw" x="2188.78" y="1381.77" text="ivoire">
+<parent-relation guid="VrpE_dB2UEC4mVNO-jO2WA">
+<path>
+<custom-point x="-2.63" y="0.70"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="69" parent="68" guid="F65XAIwxkEuvXy172w6AOw" x="2955.92" y="2020.45" text="Éléphant / morse / hippopotame / narval\N\NMatériaux qui connaît un grand succès pendant l&apos;Antiquité tardive puis pendant l&apos;époque gothique\N(interuption = coupure des routes de commerces à travers les empires/rouyaumes)">
+<parent-relation guid="whoJmAxttkGkGBHhlP12Jg">
+<path>
+<custom-point x="240.99" y="249.93"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="70" parent="69" guid="9YSznn8ACkWVI7OaVixP_A" x="2793.49" y="2167.73" text="Feuillet d&apos;un diptyque repésentant le consul Aerobindus, réalisé à Constantinople en 506,\Nivoire d&apos;éléphant\NParis, Musée de Cluny"/>
+<topic id="71" parent="69" guid="vd0YDD9WpU-xuGkuxRp8IA" x="3243.33" y="2191.35" text="Ivoire Barberini, Vie s,\NParis, Musée du Louvre"/>
+<topic id="72" parent="69" guid="lSIt3pDkv0y6acJqnLebkQ" x="3101.90" y="2261.35" text="Descente de croix, 1270-80, ivoire,\NParis, Musée du Louvre"/>
+<topic id="73" parent="69" guid="RnXF0BZUqkyuabEBS-cErg" x="2825.91" y="2314.68" text="Vierge à l&apos;enfant de la Sainte-Chapelle,\Nannées 1270, ivoire, Paris, Musée du\NLouvre, 41 cm de haut"/>
+<topic id="74" parent="20" guid="PgJfG8K2vkiCMBx91DV2KA" x="2266.69" y="1239.26" text="stuc">
+<parent-relation guid="m8TiiE-n0UWs4Anb2f-PSQ">
+<path>
+<custom-point x="10.33" y="13.17"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="75" parent="74" guid="K1csJmdP0EqjzxGj1QSiFQ" x="3989.71" y="2058.06" text="Le stuc, dont la technique remonte à l&apos;Antiquité, est un enduit teinté\Ndans la masse, à base de chaux. Il est utilisé en recouvrement des\Nplafonds et des murs, aussi bien à l&apos;intérieur qu&apos;à l&apos;extérieur. C&apos;est un\Nmélange de chaux aérienne éteinte et de « charges », celles-ci pouvant\Nêtre du sable, de la poudre de marbre ou encore de la poudre de\Nbrique. On peut y incorporer des liants comme les colles animales ou\Nvégétales, et éventuellement, pour les décors en relief comme les\Nmascarons, des « armures » de cheveux, de poils ou de treillis.">
+<style align="left"/>
+<parent-relation guid="jSWtBFOuGUqh6rM_GNCFVg">
+<path>
+<custom-point x="-92.20" y="89.34"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="76" parent="75" x="3574.84" y="2106.57" text="Plafond de la doms aurea de\NNéron (Rome, Ier s ap. J.-C.)"/>
+<topic id="77" parent="75" guid="tHpSk5X320q08rqsyvvrhA" x="4189.70" y="2230.46" text="Athlète dans une architecture ficitve. D2cor en stuc\Nprovenant de la Villa San Marco à Stabies (Naples,\Nmusée archéologique, Ier s av. J.-C."/>
+<topic id="78" parent="75" guid="olc9b4VhUkaugGm9fMqxhg" x="3681.13" y="2316.35" text="Décor peint de villa romaine /\Nmaisons de préstige"/>
+<topic id="79" parent="75" guid="8dg08zDMGEOvxZllr3R-jA" x="3930.47" y="2298.95" text="Ravenne, baptistère des\NOrthodoxes, Ve s"/>
+<topic id="80" parent="75" guid="Rg-3xYAtzEezXwLdzVKHMA" x="3543.72" y="2227.14" text="Mithraeum sousSainte-Prisca à\NRome, Iie s ap. J.-C."/>
+<topic id="81" parent="75" guid="kuKCOEdSxEWn2N1D_T0ibQ" x="3859.86" y="2487.20" text="Cividale (Friuli, Italie),\N&quot;Tempietto&quot; (petit temple), VIIIe s"/>
+<topic id="82" parent="20" guid="c8nCVv-hBEKUxC3Nblsusw" x="1948.72" y="1399.32" text="techniques mixtes"/>
+<topic id="83" parent="82" guid="4Kz_BXNLS0e-PHUYjlSzOQ" x="2008.82" y="1657.53" text="Les statues chryséléphantines\N âme en bois plaquée d&apos;ivoire pour les chairs et d&apos;or pour les vêtements\N(grèce natique archaïque et classique)">
+<style align="left"/>
+</topic>
+<topic id="84" parent="83" guid="4SFN210Z-0eEtrjciHEvzg" x="2227.24" y="1772.52" text="Reste de statues chryséléphantine d&apos;époque\Narchaïque (autour de 600av. J.-C.), mmusée\Narchéologique de Delphes"/>
+<topic id="85" parent="83" guid="pNBhXPng8U-PAzDafKcnMA" x="2213.80" y="1858.08" text="Restitution de statue de Zeus à Olympie (sanctuaire panhellénique)\NRéalisé pas Phidias au milieu du Ve s av. J.-. (période classique)"/>
+<topic id="86" parent="83" guid="5695MrsVfUWnFLwk5kpjuQ" x="2245.00" y="1959.51" text="Restitution de la statue de l&apos;Athéna Parthénos à Athènes, réalisé par\NPhidias au milieu du Ve s av. J.-C. (période classique) + Athéna Varvakeion"/>
+<topic id="87" parent="82" guid="tBIttQAG8UOjRJICdbZ9tw" x="1589.66" y="1853.37" text="Les statues acrolithes"/>
+<topic id="88" parent="87" guid="cB6zDLbmYEqMjuvxO5kcRw" x="1595.19" y="1979.26" text="Une statue acrolithe (du grec ancien ἀκρόλιθος / akrolithos) est\Nune statue de l&apos;Antiquité, principalement de la période\Narchaïque grecque, en ronde bosse, généralement en bois,\Ndont les parties non couvertes par un vêtement sont en pierre,\Nen ivoire ou en métal.">
+<style align="left"/>
+</topic>
+<topic id="89" parent="88" guid="_ewXMxYPCkSdwJEaKjfgeA" x="1599.20" y="2070.51" text="Restes d&apos;une statue acrolithe de\NConstantin, marbre, 313-324, 2,60m pour\Nla tête, Rome, Musée capitolins"/>
+<topic id="90" parent="89" guid="A9hWnKy5Akumujkva9rE_w" x="1602.51" y="2145.76" text="statue acrolithe de Constantin dans\Nbasilique de Maxence"/>
+<topic id="91" parent="82" guid="IO4akyeqNEq6LYWsc2YqhA" x="1914.66" y="2391.70" text="technique mixte plus récente\N\NLa vague ou Les baigneuses de Camile Claudel, onyx et bronze, 1897-1903, Paris, Musée Rodin, 62 cm dde haut"/>
+<topic id="92" parent="20" guid="4-HdAgN65k-KG4kZodLUsg" x="1648.72" y="1358.07" text="nouveaux matériaux"/>
+<topic id="93" parent="92" guid="_-otEk6G8UyL85t9PsS7Jg" x="1506.42" y="1602.34" text="Le remploi d&apos;objets : \Nles ready-made de Marcel\NDuchamp (mouvement dada)"/>
+<topic id="94" parent="92" guid="in-9718o402vk4oiHk7wQw" x="1306.31" y="1734.12" text="Les plastiques : \NLes Constructions linéaires dans\Nl&apos;espace de Naum Gabo. \NLes Nanas en polyester de\NNiki de Saint-Phalle (années 1960-80)"/>
+<topic id="95" parent="92" guid="RdH1mGtUCUqNpCLOHpMshA" x="1240.42" y="1593.68" text="Le béton : \NLe Jardin des Tarots (Toscane)\Nde Niki de Saint-Phalle avec la\Nparticipation de Jea Tingely"/>
+<topic id="96" parent="92" guid="hn8WzojRYEa7-ZijihOyuQ" x="1294.65" y="1439.91" text="L&apos;acier : \NJeff Koons, Ballon\Ndogs (années 1990)"/>
+<topic id="97" parent="1" guid="eUJR71ROJEedVsi3snhR-Q" x="761.56" y="1133.08" text="II- La scuplture dans la société : lieux et\Nfonctions des oeuvres scupltées">
+<parent-relation guid="E_dG2TbZf0-98uAkhNyd8A">
+<path>
+<custom-point x="43.77" y="-117.74"/>
+</path>
+</parent-relation>
+</topic>
+<topic id="98" parent="0" guid="uPEKzEYx2EiNKtgZ5szXFw" x="336.34" y="58.22" palette="3" colorinfo="3" text="Peinture"/>
+<topic id="99" parent="0" guid="Pg1J322MAEGAVLOB6vdxTQ" x="953.88" y="-63.75" palette="4" colorinfo="4" text="Architecture"/>
+</topics>
+<relations>
+<relation guid="mHh716VLG0WBxQLe3pCYSg" source="8" target="22">
+<path>
+<custom-point x="18.44" y="161.84"/>
+</path>
+</relation>
+<relation guid="tPuO2GMO_U2V7jBaHD6OeQ" source="20" target="97">
+<path>
+<custom-point x="-269.68" y="35.25"/>
+</path>
+</relation>
+</relations>
+</mindmap>
+</simplemind-mindmaps>
